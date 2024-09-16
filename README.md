@@ -29,13 +29,14 @@ Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/mai
 
 
 ### 2. [Sentiment Classification in Comments](https://github.com/Kaua-vas/Portfolio/tree/main/Sentiment_Classification_in_Comments)  
-An NLP project to classify sentiment in IMDb reviews of *The Acolyte* episodes using **Hugging Face Transformers** and **Scikit-learn**. This project involves web scraping, text preprocessing, and sentiment analysis, and it includes visualizations to explore sentiment trends across different episodes.
+An NLP project to classify sentiment in IMDb reviews of *The Acolyte* episodes using **Hugging Face Transformers**. This project involves web scraping, text preprocessing, and sentiment analysis, and includes visualizations to explore sentiment trends across different episodes.
 
 Key Features:
 - Scrapes IMDb reviews for each episode of *The Acolyte* using **BeautifulSoup**.
 - Preprocesses text using **SpaCy** for tokenization, lemmatization, and stopword removal.
 - Classifies reviews as positive or negative using **Hugging Face’s DistilBERT** model.
-- Generates visualizations of sentiment trends and confidence levels per episode.
+- Generates visualizations of sentiment trends and confidence levels per episode using **Matplotlib** and **Seaborn**.
+- Organizes and processes data using **Pandas**.
 
 Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Sentiment_Classification_in_Comments).
 
