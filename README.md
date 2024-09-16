@@ -17,13 +17,14 @@ I’m a Data Scientist specializing in **Machine Learning**, **Artificial Intell
 
 ## 📂 Featured Projects:
 
-### 1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
-A Machine Learning model to forecast stock demand based on historical data. Utilizes **Pandas**, **Scikit-learn**, and **TensorFlow** to build a predictive model, with key features including data preprocessing, feature engineering, and model evaluation.
+1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
+A Machine Learning project focused on forecasting stock demand using historical sales data from the **Rossmann Store Sales dataset**. The goal is to predict future sales considering various factors such as promotions, store type, and holidays. The model was built using **Pandas** for data processing, **Scikit-learn** for initial model exploration, and **TensorFlow** for implementing a neural network.
 
 Key Features:
-- Predicts stock demand based on historical sales, promotions, and seasonality.
-- Includes visualizations for sales predictions vs. historical sales.
-- Leverages a neural network model built with **TensorFlow** and optimized with **Adam**.
+- Predicts stock demand based on historical sales data, including promotions, store types, and seasonality.
+- Uses **TensorFlow** to implement a neural network model, optimized with the **Adam** optimizer.
+- Includes detailed **data preprocessing** steps, such as handling missing values, feature engineering, and encoding categorical variables.
+- Visualizations comparing **predicted sales vs. actual sales** to assess model performance and improvements.
 
 Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast).
 
