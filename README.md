@@ -17,7 +17,7 @@ I’m a Data Scientist specializing in **Machine Learning**, **Artificial Intell
 
 ## 📂 Featured Projects:
 
-1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
+### 1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
 A Machine Learning project focused on forecasting stock demand using historical sales data from the **Rossmann Store Sales dataset**. The goal is to predict future sales considering various factors such as promotions, store type, and holidays. The model was built using **Pandas** for data processing, **Scikit-learn** for initial model exploration, and **TensorFlow** for implementing a neural network.
 
 Key Features:
