@@ -17,19 +17,27 @@ I’m a Data Scientist specializing in **Machine Learning**, **Artificial Intell
 
 ## 📂 Featured Projects:
 
-### 1. [Stock Demand Forecasting](#)
-A Machine Learning model to forecast stock demand based on historical data. Uses **Pandas**, **Scikit-learn**, and **TensorFlow**.
+### 1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
+A Machine Learning model to forecast stock demand based on historical data. Utilizes **Pandas**, **Scikit-learn**, and **TensorFlow** to build a predictive model, with key features including data preprocessing, feature engineering, and model evaluation.
 
-### 2. [Sentiment Classification in Comments](#)
+Key Features:
+- Predicts stock demand based on historical sales, promotions, and seasonality.
+- Includes visualizations for sales predictions vs. historical sales.
+- Leverages a neural network model built with **TensorFlow** and optimized with **Adam**.
+
+Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast).
+
+
+### 2. [Sentiment Classification in Comments](#) (ongoing)
 An NLP project to classify sentiment in comments using **Hugging Face Transformers** and **Scikit-learn**.
 
-### 3. [Image Recognition (Computer Vision)](#)
+### 3. [Image Recognition (Computer Vision)](#) (ongoing)
 Uses **OpenCV** and **TensorFlow** for object classification and recognition in images, focusing on Convolutional Neural Networks (CNN).
 
-### 4. [Fraud Detection in Transactions](#)
+### 4. [Fraud Detection in Transactions](#) (ongoing)
 A classification model to identify fraudulent transactions using **Scikit-learn** and **TensorFlow**.
 
-### 5. [BI Report Automation](#)
+### 5. [BI Report Automation](#) (ongoing)
 Automated pipeline for generating Business Intelligence reports using **Power BI**, **Python**, and **SQL**.
 
 ---
