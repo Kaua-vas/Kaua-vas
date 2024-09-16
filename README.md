@@ -28,8 +28,16 @@ Key Features:
 Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast).
 
 
-### 2. [Sentiment Classification in Comments](#) (ongoing)
-An NLP project to classify sentiment in comments using **Hugging Face Transformers** and **Scikit-learn**.
+### 2. [Sentiment Classification in Comments](https://github.com/Kaua-vas/Portfolio/tree/main/Sentiment_Classification_in_Comments)  
+An NLP project to classify sentiment in IMDb reviews of *The Acolyte* episodes using **Hugging Face Transformers** and **Scikit-learn**. This project involves web scraping, text preprocessing, and sentiment analysis, and it includes visualizations to explore sentiment trends across different episodes.
+
+Key Features:
+- Scrapes IMDb reviews for each episode of *The Acolyte* using **BeautifulSoup**.
+- Preprocesses text using **SpaCy** for tokenization, lemmatization, and stopword removal.
+- Classifies reviews as positive or negative using **Hugging Face’s DistilBERT** model.
+- Generates visualizations of sentiment trends and confidence levels per episode.
+
+Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Sentiment_Classification_in_Comments).
 
 ### 3. [Image Recognition (Computer Vision)](#) (ongoing)
 Uses **OpenCV** and **TensorFlow** for object classification and recognition in images, focusing on Convolutional Neural Networks (CNN).
