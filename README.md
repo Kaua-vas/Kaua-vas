@@ -1,63 +1,81 @@
-# 👋 Hello, I'm @Kaua-vas!
+# 👾 Welcome to my GitHub!
 
-I’m a Data Scientist specializing in **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**. Here, you'll find a collection of my projects where I apply advanced techniques to solve real-world problems. Feel free to explore and contribute!
+![Neon City Banner](https://images.unsplash.com/photo-1519121782449-05d8f7a3ff2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGN5YmVycHVuayUyMG5lb258ZW58MHx8fHwxNjAxNzA5NDg5&ixlib=rb-1.2.1&q=80&w=1080)
+<!-- Um banner futurista com tema cyberpunk retirado do Unsplash. -->
 
----
+> **Kauã Vasconcelos** – Data Scientist exploring the limits of **AI** and **Data**.
 
-## 🚀 Technologies I work with:
-
-- **Languages:** Python, Node.js, SQL
-- **Machine Learning:** TensorFlow, Scikit-learn, Keras
-- **Computer Vision:** OpenCV, Convolutional Neural Networks (CNN)
-- **Natural Language Processing (NLP):** NLTK, SpaCy, Hugging Face
-- **Data Analysis:** Pandas, Numpy, Power BI
-- **Process Automation:** Python (scripts), RESTful APIs
+In the world of **AI** and **Data Analysis**, I craft solutions that merge human intuition with advanced machine learning algorithms. Here you will find projects that push the boundaries of what can be achieved with **Artificial Intelligence**, **Computer Vision**, and **NLP**.
 
 ---
 
-## 📂 Featured Projects:
+## 🧠 Core Competencies
 
-### 1. [Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
-A Machine Learning project focused on forecasting stock demand using historical sales data from the **Rossmann Store Sales dataset**. The goal is to predict future sales considering various factors such as promotions, store type, and holidays. The model was built using **Pandas** for data processing, **Scikit-learn** for initial model exploration, and **TensorFlow** for implementing a neural network.
-
-Key Features:
-- Predicts stock demand based on historical sales data, including promotions, store types, and seasonality.
-- Uses **TensorFlow** to implement a neural network model, optimized with the **Adam** optimizer.
-- Includes detailed **data preprocessing** steps, such as handling missing values, feature engineering, and encoding categorical variables.
-- Visualizations comparing **predicted sales vs. actual sales** to assess model performance and improvements.
-
-Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast).
-
-
-### 2. [Sentiment Classification in Comments](https://github.com/Kaua-vas/Portfolio/tree/main/Classification%20of%20Sentiments%20in%20Comments)  
-An NLP project to classify sentiment in IMDb reviews of *The Acolyte* episodes using **Hugging Face Transformers**. This project involves web scraping, text preprocessing, and sentiment analysis, and includes visualizations to explore sentiment trends across different episodes.
-
-Key Features:
-- Scrapes IMDb reviews for each episode of *The Acolyte* using **BeautifulSoup**.
-- Preprocesses text using **SpaCy** for tokenization, lemmatization, and stopword removal.
-- Classifies reviews as positive or negative using **Hugging Face’s DistilBERT** model.
-- Generates visualizations of sentiment trends and confidence levels per episode using **Matplotlib** and **Seaborn**.
-- Organizes and processes data using **Pandas**.
-
-Check out the full project [here](https://github.com/Kaua-vas/Portfolio/tree/main/Classification%20of%20Sentiments%20in%20Comments).
-
-### 3. [Image Recognition (Computer Vision)](#) (ongoing)
-Uses **OpenCV** and **TensorFlow** for object classification and recognition in images, focusing on Convolutional Neural Networks (CNN).
-
-### 4. [Fraud Detection in Transactions](#) (ongoing)
-A classification model to identify fraudulent transactions using **Scikit-learn** and **TensorFlow**.
-
-### 5. [BI Report Automation](#) (ongoing)
-Automated pipeline for generating Business Intelligence reports using **Power BI**, **Python**, and **SQL**.
+```yaml
+- 🧬 AI/ML: TensorFlow, Scikit-learn, Keras
+- 🛰️ Data: Pandas, Numpy, Power BI
+- 🦾 Computer Vision: OpenCV, CNNs
+- 💬 NLP: NLTK, SpaCy, Hugging Face
+- 🔗 Automation: Python, REST APIs
+- ⚙️ Algorithms: Predictive Modeling, Optimization
+```
 
 ---
 
-## 📫 How to reach me:
+## 🌌 Featured Projects
 
-- LinkedIn: [Kauã Vasconcelos](www.linkedin.com/in/kaua-vasconcelos)
-- Discord: [vuss_](https://discord.gg/kKBmqFZc) 
-- Email: vasconcouto@gmail.com
+<div style="border: 2px solid; border-image: linear-gradient(45deg, #00ffff, #ff00ff); border-image-slice: 1; padding: 15px;">
+  
+### [📈 Stock Demand Forecasting](https://github.com/Kaua-vas/Portfolio/tree/main/Inventory%20Demand%20Forecast)
+Predicts future sales using machine learning models with a focus on time-series data.
+
+**Tech:** TensorFlow, Pandas, Scikit-learn  
+**Features:** Neural network optimized for sales seasonality, store type, and promotions.
+
+</div>
 
 ---
 
-Contributions, feedback, and collaborations are always welcome! If you have a project in mind or would like to discuss ideas, feel free to reach out.
+<div style="border: 2px solid; border-image: linear-gradient(45deg, #00ffff, #ff00ff); border-image-slice: 1; padding: 15px;">
+  
+### [💬 Sentiment Classification in IMDb Reviews](https://github.com/Kaua-vas/Portfolio/tree/main/Classification%20of%20Sentiments%20in%20Comments)
+Uses NLP techniques to classify IMDb reviews for *The Acolyte* episodes based on sentiment analysis.
+
+**Tech:** Hugging Face, DistilBERT, SpaCy, BeautifulSoup  
+**Features:** Scraping IMDb reviews, text preprocessing, and generating sentiment trends across episodes.
+
+</div>
+
+---
+
+## 🔧 Ongoing Projects
+
+![Loading Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+<!-- Animação de loading para projetos em andamento. -->
+
+### [🖼️ Image Recognition (Ongoing)](https://github.com/Kaua-vas/Portfolio/tree/main/ImageRecognition)
+Building an object detection and classification model using **CNN** and **OpenCV** to recognize faces and other objects.
+
+---
+
+### [🔒 Fraud Detection (Ongoing)](https://github.com/Kaua-vas/Portfolio/tree/main/FraudDetection)
+Developing a real-time fraud detection system using **Scikit-learn** and **TensorFlow** for financial transactions.
+
+---
+
+### [📊 BI Report Automation (Ongoing)](https://github.com/Kaua-vas/Portfolio/tree/main/BIAutomation)
+Automating Business Intelligence reports with **Power BI**, **Python**, and **SQL**, making data-driven decisions fast and efficient.
+
+---
+
+## 🛰️ Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kauã%20Vasconcelos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-vasconcelos)  
+[![Discord Badge](https://img.shields.io/badge/Discord-vuss__-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/kKBmqFZc)  
+[![Email Badge](https://img.shields.io/badge/Email-vasconcouto@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vasconcouto@gmail.com)
+
+---
+
+### Contributions are the fuel to innovation. Let’s build the future together.
+
+---
