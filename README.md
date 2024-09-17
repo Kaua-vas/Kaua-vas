@@ -1,14 +1,12 @@
-# 👾 Welcome to My GitHub Profile
-
-![Pacman Animation](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Extra%20Value%20Added/Pacman%20Loader.gif)
-<!-- Substituí o header anterior pelo Pacman GIF. -->
+# 👾 Welcome to My GitHub Profile!
+<!-- Substituí o emoji pelo Pacman GIF no título. -->
 
 I am **Kauã Vasconcelos**, a **Data Scientist** specializing in **Artificial Intelligence**, **Machine Learning**, and **Data Analysis**. My focus is on solving complex real-world problems by leveraging cutting-edge technologies and advanced algorithms.
 
 ---
 
-## ![Skills Animation](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Extra%20Value%20Added/Skills.gif) Skills
-<!-- A animação "Skills" substitui o emoji 🧑‍💻 -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" /> Skills
+<!-- Animação de Skills ajustada para o tamanho de um emoji. -->
 
 ```yaml
 - 🧬 AI/ML: TensorFlow, Scikit-learn, Keras
@@ -41,48 +39,33 @@ Classifies IMDb reviews for *The Acolyte* episodes using advanced NLP techniques
 
 ## 🔧 Ongoing Projects
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Loading Animation" width="200" />
-    <!-- GIF de loading à esquerda -->
-  </div>
-  <div style="flex: 2;">
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Loading Animation" width="200" align="left" style="margin-right: 20px; margin-bottom: 20px;" />
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><strong>🖼️ Image Recognition (Ongoing)</strong><br>
-  Developing an object recognition model using <strong>CNN</strong> and <strong>OpenCV</strong> to identify objects and faces.</li><br>
-  <li><strong>🔒 Fraud Detection (Ongoing)</strong><br>
-  Building a fraud detection system using <strong>Scikit-learn</strong> and <strong>TensorFlow</strong> for financial transactions.</li><br>
-  <li><strong>📊 BI Report Automation (Ongoing)</strong><br>
-  Creating an automated pipeline for <strong>BI</strong> reports using <strong>Power BI</strong>, <strong>Python</strong>, and <strong>SQL</strong>.</li>
-</ul>
+### 🖼️ Image Recognition (Ongoing)  
+Developing an object recognition model using **CNN** and **OpenCV** to identify objects and faces.
 
-  </div>
-</div>
+### 🔒 Fraud Detection (Ongoing)  
+Building a fraud detection system using **Scikit-learn** and **TensorFlow** for financial transactions.
+
+### 📊 BI Report Automation (Ongoing)  
+Creating an automated pipeline for **BI** reports using **Power BI**, **Python**, and **SQL**.
 
 ---
 
 ## 🛰️ Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaua-vasconcelos">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Social%20Media%20Icons/Linkedin.gif" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/kKBmqFZc">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Social%20Media%20Icons/Discord.gif" alt="Discord" width="40" height="40"/>
-  </a>
-  <a href="mailto:vasconcouto@gmail.com">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Social%20Media%20Icons/Gmail.gif" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kauã%20Vasconcelos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-vasconcelos)  
+[![Discord Badge](https://img.shields.io/badge/Discord-vuss__-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/kKBmqFZc)  
+[![Email Badge](https://img.shields.io/badge/Email-vasconcouto@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vasconcouto@gmail.com)
 
 ---
 
-### Let's build solutions together!
+Contributions and feedback are always welcome! If you have a project in mind or would like to discuss ideas, feel free to reach out.
 
 ---
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60" />
-  <!-- GIF discreto no rodapé à esquerda -->
+<div align="right">
+  <img src="https://drive.google.com/file/d/1I6UuvdPHj0L-Ad90thoxXFdylQ9URQq7/view?usp=sharing" width="50" />
 </div>
+
+---
