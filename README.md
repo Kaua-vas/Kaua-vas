@@ -82,9 +82,7 @@ Classifies IMDb reviews for *The Acolyte* episodes using advanced NLP techniques
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100" />
-  <!-- GIF discreto no rodapé -->
-</p>
-
----
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60" />
+  <!-- GIF discreto no rodapé à esquerda -->
+</div>
