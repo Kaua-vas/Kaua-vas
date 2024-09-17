@@ -41,13 +41,13 @@ Classifies IMDb reviews for *The Acolyte* episodes using advanced NLP techniques
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Loading Animation" width="200" align="left" style="margin-right: 20px; margin-bottom: 20px;" />
 
-### 🖼️ Image Recognition (Ongoing)  
+### 🖼️ Image Recognition   
 Developing an object recognition model using **CNN** and **OpenCV** to identify objects and faces.
 
-### 🔒 Fraud Detection (Ongoing)  
+### 🔒 Fraud Detection  
 Building a fraud detection system using **Scikit-learn** and **TensorFlow** for financial transactions.
 
-### 📊 BI Report Automation (Ongoing)  
+### 📊 BI Report Automation   
 Creating an automated pipeline for **BI** reports using **Power BI**, **Python**, and **SQL**.
 
 ---
@@ -65,7 +65,6 @@ Contributions and feedback are always welcome! If you have a project in mind or 
 ---
 
 <div align="right">
-  <img src="https://drive.google.com/file/d/1I6UuvdPHj0L-Ad90thoxXFdylQ9URQq7/view?usp=sharing" width="50" />
+  <img src="https://github.com/user-attachments/assets/6aa5c66a-0dd0-498e-ba44-a728710de89b" width="50" />
 </div>
 
----
